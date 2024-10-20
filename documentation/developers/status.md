@@ -135,7 +135,7 @@ Topics marked _in progress_ are already in the process of implementation by comm
   - [x] RC532
   - [x] Multi-reader support
   - [x] GUI Fake Reader for Development
-  - [ ] PC/SC Cards (what actually is this?)
+  - [x] PC/SC Cards (pyscard)
 - [x] Publish RFID Card ID via PubSub
   - Needs to be thread safe
 - [x] Card reference IF via RPC
